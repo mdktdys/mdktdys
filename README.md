@@ -1,4 +1,4 @@
-## Hi there, I'm Danil 👋
+##👋 Hi there, I'm Danil 
 
 > [!NOTE]\
 > Beginner developer. I'm learning and trying to make my dream projects
@@ -37,6 +37,6 @@
     <a href="https://github.com/EventGamer67/Shop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EventGamer67&repo=Shop&theme=prussian&hide_border=true&show_icons=true"></a>
 </p>
 
-<h2>Stats</h2>
+<h2>🏆 Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EventGamer67&layout=compact&theme=prussian&hide=html,cmake,c-plus-plus&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EventGamer67&layout=compact&theme=prussian&hide=html,cmake,c-plus-plus&hide_border=true)](https://github.com/EventGamer67)
