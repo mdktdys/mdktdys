@@ -6,6 +6,8 @@
 
 > Text
 
+![ae...](https://mdg.imgix.net/assets/images/tux.png?auto=format&fit=clip&q=40&w=100)
+
 <!--
 **EventGamer67/EventGamer67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
