@@ -15,6 +15,7 @@
 
 <p align="left">
       <a href="https://github.com/EventGamer67/Flutter-Learning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EventGamer67&repo=Flutter-Learning&theme=prussian&hide_border=true&show_icons=true"></a>
+    <a href="https://github.com/EventGamer67/MADventure"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EventGamer67&repo=MADventure&theme=prussian&hide_border=true&show_icons=true"></a>
 </p>
 
 <h2>🎮 GameDev projects</h2>
