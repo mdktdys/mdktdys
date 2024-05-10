@@ -1,5 +1,17 @@
 ## 👋 Hi there, I'm Danil 
 
+<div class="gradient-container" style="width: 300px;
+    height: 300px;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-size: 24px;" >
+  Это градиентный фон
+</div>
+
 > [!NOTE]\
 > Beginner developer. I'm learning and trying to make my dream projects
 >
