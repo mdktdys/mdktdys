@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Danil 
+## 👋 Hi ther
 
 > [!NOTE]\
 > Beginner developer. I'm learning and trying to make my dream projects
