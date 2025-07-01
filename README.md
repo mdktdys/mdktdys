@@ -6,7 +6,7 @@
 > Here are some of my work ✨
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="[https://streak-stats.demolab.com](https://github-readme-streak-stats-eight.vercel.app/)?user=mdktdys&theme=prussian&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="[https://streak-stats.demolab.com](https://github-readme-streak-stats-eight.vercel.app/?user=mdktdys&theme=prussian&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
 </p>
 
 <h2>📱 Mobile projects</h2>
